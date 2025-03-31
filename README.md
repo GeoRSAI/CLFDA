@@ -17,9 +17,8 @@ The pipeline for training with CLFDA is the following:
 
 
 ## Acknowledgment
-This code is heavily borrowed from [RS-Mamba](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)
+This code is heavily borrowed from [RS-Mamba](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba) and [RS3Mamba](https://github.com/sstary/SSRS/tree/main/RS3Mamba)
 
-[Official_Remote_Sensing_Mamba]([https://github.com/walking-shadow/Official_Remote_Sensing_Mamba]) and  [RS3Mamba]([https://github.com/sstary/SSRS/tree/main/RS3Mamba)
 
 ## Citation
 If you find our work useful in your research, please consider citing our paper:
