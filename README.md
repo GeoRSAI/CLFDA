@@ -1,4 +1,4 @@
-# CLFDA
+# CLFDA: Continuous Low-Frequency Decomposition Architecture for Fine-Grained Land Use Classification
 
 ## Requirements
 - This code is written for `python3.10`.
