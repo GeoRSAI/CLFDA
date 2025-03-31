@@ -4,7 +4,9 @@
 - This code is written for `python3.10`.
 - pytorch = 2.1.1
 - torchvision
-- numpy, prettytable, tqdm, scikit-learn, matplotlib, argparse, h5py
+- mamba-ssm==1.1.3.post1
+- pytorch_wavelets
+- numpy, prettytable, tqdm, scikit-learn, matplotlib, argparse, h5py, timm, einops
 - https://blog.csdn.net/yyywxk/article/details/136071016
 
 
