@@ -13,7 +13,11 @@
 ## Training and Evaluating
 The pipeline for training with CLFDA is the following:
 
-1. Train and Evaluate the model. For example, to run an experiment for the GID-15 and FUSU dataset,  run:
+1. "option.py"
+- `args.dataset = 'gid15'`
+- `args.arch = 'CLFDA'`
+
+2. Train and Evaluate the model. For example, to run an experiment for the GID-15 and FUSU dataset,  run:
 
 - `python main.py`
 
