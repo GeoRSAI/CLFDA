@@ -1,7 +1,7 @@
 from model.UNetFormer import UNetFormer
 from model.RS3Mamba import RS3Mamba, load_pretrained_ckpt
 from model.rs_mamba_ss import RSM_SS
-from model.Mamba_Ours import RSM_SS_OURS
+from model.CLFDA_rsm_ss import RSM_SS_OURS
 
 def unetformer(num_classes=15, num_channels=3, use_bn=False):
     model = UNetFormer(num_classes=num_classes).cuda()
