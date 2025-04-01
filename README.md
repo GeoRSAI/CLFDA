@@ -10,6 +10,17 @@
 - numpy, prettytable, tqdm, scikit-learn, matplotlib, argparse, h5py, timm, einops
 - [https://blog.csdn.net/yyywxk/article/details/136071016](https://blog.csdn.net/yyywxk/article/details/140422758)
 
+## Dataset
+
+### Fine-grained land-use classification dataset
+
+####  GID-15 dataset
+
+- Dataset Download: [GID-15 dataset](https://captain-whu.github.io/HPS-Net/)。
+
+#### FUSU Dataset
+
+- Dataset Download: [FUSU Dataset](https://github.com/yuanshuai0914/FUSU)。
 
 ## Training and Evaluating
 The pipeline for training with CLFDA is the following:
