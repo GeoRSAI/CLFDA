@@ -2,7 +2,7 @@
 
 ## Requirements
 - This code is written for `python3.10`.
-- Follow the installation instructions of the VMamba project to install the [RS-Mamba](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)  environment.
+- Follow the installation instructions of the VMamba project to install the [RS-Mamba(rsm-ss)](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)  environment.
 - pytorch = 2.1.1
 - torchvision
 - selective-scan-0.0.2
@@ -24,7 +24,7 @@ The pipeline for training with CLFDA is the following:
 
 
 ## Acknowledgment
-This code is heavily borrowed from [RS-Mamba](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba) and [RS3Mamba](https://github.com/sstary/SSRS/tree/main/RS3Mamba)
+This code is heavily borrowed from [RS-Mamba(rsm-ss)](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba) and [RS3Mamba](https://github.com/sstary/SSRS/tree/main/RS3Mamba)
 
 
 ## Citation
