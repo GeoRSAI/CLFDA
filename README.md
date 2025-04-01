@@ -2,12 +2,13 @@
 
 ## Requirements
 - This code is written for `python3.10`.
+- Follow the installation instructions of the VMamba project to install the [RS-Mamba](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)  environment.
 - pytorch = 2.1.1
 - torchvision
-- mamba-ssm==1.1.3.post1
+- selective-scan-0.0.2
 - pytorch_wavelets
 - numpy, prettytable, tqdm, scikit-learn, matplotlib, argparse, h5py, timm, einops
-- https://blog.csdn.net/yyywxk/article/details/136071016
+- [https://blog.csdn.net/yyywxk/article/details/136071016](https://blog.csdn.net/yyywxk/article/details/140422758)
 
 
 ## Training and Evaluating
