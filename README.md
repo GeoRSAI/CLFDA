@@ -16,11 +16,11 @@
 
 ####  GID-15 dataset
 
-- Dataset Download: [GID-15 dataset](https://captain-whu.github.io/HPS-Net/)。
+- Dataset Download: [GID-15 dataset](https://captain-whu.github.io/HPS-Net/).
 
 #### FUSU Dataset
 
-- Dataset Download: [FUSU Dataset](https://github.com/yuanshuai0914/FUSU)。
+- Dataset Download: [FUSU Dataset](https://github.com/yuanshuai0914/FUSU).
 
 ## Training and Evaluating
 The pipeline for training with CLFDA is the following:
